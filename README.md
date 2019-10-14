@@ -2,7 +2,7 @@
 ==========================
 
 Analiziral bom slovenske nepremičnine v Ljubljani in v njeni okolici (morda še kaj več, če podatkov ne bo dovolj) s pomočjo strani
-[nrepremicnine.net](https://www.nepremicnine.net/oglasi-prodaja/ljubljana-mesto/stanovanje/1/).
+[nepremicnine.net](https://www.nepremicnine.net/oglasi-prodaja/ljubljana-mesto/stanovanje/1/).
 
 Za vsako stanovanje bom zajel naslednje podatke:
 * lokacijo
