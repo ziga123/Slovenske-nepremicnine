@@ -7,7 +7,7 @@ Analiziral bom slovenske nepremičnine v Ljubljani in v njeni okolici (morda še
 Za vsako stanovanje bom zajel naslednje podatke:
 * lokacijo
 * ceno
-* število nadstropij
+* agencijo
 * leto gradnje
 * opis (kvadratura, število sob)
 
